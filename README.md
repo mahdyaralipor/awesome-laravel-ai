@@ -8,6 +8,7 @@ Laravel shipped a first-party AI SDK, an MCP toolkit, official agent skills and 
 
 - [Official](#official)
 - [Community packages](#community-packages)
+- [Provider clients](#provider-clients)
 - [Learning](#learning)
 - [Contributing](#contributing)
 
@@ -30,6 +31,12 @@ Laravel shipped a first-party AI SDK, an MCP toolkit, official agent skills and 
 - [hardimpactdev/opencode-sdk-laravel](https://github.com/hardimpactdev/opencode-sdk-laravel) - Use the OpenCode AI coding agent API from Laravel.
 - [openai-php/client](https://github.com/openai-php/client) - Community OpenAI client for PHP, used across the ecosystem.
 - [Nightwatch](https://nightwatch.laravel.com) - Laravel monitoring with an MCP server so agents can browse errors and traces.
+- [prism-php/prism](https://github.com/prism-php/prism) - Unified interface for working with LLMs in Laravel: providers, tools, structured output and assistants.
+
+## Provider clients
+
+- [openai-php/laravel](https://github.com/openai-php/laravel) - Laravel wrapper around the community OpenAI PHP client.
+- [mozex/anthropic-php](https://github.com/mozex/anthropic-php) - PHP client for the Anthropic API: messages, streaming, tool use and batches.
 
 ## Learning
 

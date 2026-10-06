@@ -11,6 +11,7 @@ Laravel shipped a first-party AI SDK, an MCP toolkit, official agent skills and 
 - [Provider clients](#provider-clients)
 - [Learning](#learning)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Official
 
@@ -50,5 +51,3 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related rights to this work. See [LICENSE](LICENSE) for details.

@@ -13,13 +13,13 @@ Laravel shipped a first-party AI SDK, an MCP toolkit, official agent skills and 
 
 ## Official
 
-- [laravel/ai](https://github.com/laravel/ai) - First-party AI SDK: agents, tools, memory, structured output, streaming and vector search across 14 providers.
+- [Laravel/ai](https://github.com/laravel/ai) - First-party AI SDK: agents, tools, memory, structured output, streaming and vector search across 14 providers.
 - [AI SDK documentation](https://laravel.com/docs/13.x/ai-sdk) - Official docs: agents, tools, streaming, testing and deployment.
 - [laravel.com/ai](https://laravel.com/ai) - Product page and overview of Laravel's AI offering.
-- [laravel/agent-skills](https://github.com/laravel/agent-skills) - Official collection of agent skills and plugins for Claude Code and Cursor.
+- [Laravel/agent-skills](https://github.com/laravel/agent-skills) - Official collection of agent skills and plugins for Claude Code and Cursor.
 - [skills.laravel.cloud](https://skills.laravel.cloud/) - Open community directory of reusable Laravel and PHP agent skills.
-- [laravel/boost](https://github.com/laravel/boost) - First-party MCP server plus version-aware guidelines that teach agents your stack.
-- [laravel/mcp](https://github.com/laravel/mcp) - First-party toolkit for building MCP servers inside Laravel apps.
+- [Laravel/boost](https://github.com/laravel/boost) - First-party MCP server plus version-aware guidelines that teach agents your stack.
+- [Laravel/mcp](https://github.com/laravel/mcp) - First-party toolkit for building MCP servers inside Laravel apps.
 
 ## Community packages
 

@@ -1,0 +1,21 @@
+name: Links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Weekly dead-link check, Monday 06:00 UTC.
+    - cron: '0 6 * * 1'
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          # YouTube blocks bot traffic; those links are verified manually.
+          args: --verbose --no-progress --max-retries 2 --exclude 'https://www.youtube.com/*' README.md CONTRIBUTING.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

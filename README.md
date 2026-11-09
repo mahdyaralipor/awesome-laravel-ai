@@ -62,6 +62,7 @@ Laravel shipped a first-party AI SDK, an MCP toolkit, official agent skills and 
 ## Developer tools
 
 - [hardimpactdev/opencode-sdk-laravel](https://github.com/hardimpactdev/opencode-sdk-laravel) - Use the OpenCode AI coding agent API from Laravel.
+- [laravilt/laravilt](https://github.com/laravilt/laravilt) - Laravel admin-panel framework on Inertia (Vue 3 or React 19) with multi-provider AI chat, AI tools and agents over resources, AI global search and an MCP server.
 
 ## Real-world examples
 
